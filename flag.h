@@ -1,0 +1,1 @@
+char* FLAG = "FLAG"
